@@ -1,4 +1,3 @@
-
 # AI-Based Disease Prediction System
 
 A comprehensive, production-ready web-based healthcare application that predicts the likelihood of **Diabetes**, **Heart Disease**, and **Breast Cancer** using machine learning models. The system features role-based access control, explainable AI, personalized health recommendations, risk stratification, and comprehensive audit logging.
