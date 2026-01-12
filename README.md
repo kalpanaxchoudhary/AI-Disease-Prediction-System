@@ -6,7 +6,7 @@ A comprehensive, production-ready web-based healthcare application that predicts
 ![Django](https://img.shields.io/badge/Django-4.2.26-green)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1.7.1-orange)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
-
+ 
 ---
 
 ## 📋 Table of Contents
