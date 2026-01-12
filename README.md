@@ -46,7 +46,7 @@ A comprehensive, production-ready web-based healthcare application that predicts
 - **Real-time Predictions**: Instant results with probability scores
 - **PDF Report Generation**: Downloadable medical reports using ReportLab
 
-### 🧠 Explainable AI (XAI)
+### 🧠 Explainable AI (XAI) 
 - **Feature Importance Analysis**: Identify key contributing factors to each prediction
 - **Top 5 Feature Visualization**: Display most influential health parameters
 - **Human-Readable Explanations**: Clear, non-technical interpretation of results
